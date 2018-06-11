@@ -6,4 +6,6 @@ Kaggle 是目前最大的 Data Scientist 聚集地。
 所以刚刚接触 Kaggle 的人很多都会以 25% 或是 10% 为目标。在本文中，我试图根据自己第一次比赛的经验和从其他 Kaggler 那里学到的知识，为刚刚听说 Kaggle 想要参赛的新手提供一些切实可行的冲刺 10% 的指导。
 
 
+
 This is master
+
